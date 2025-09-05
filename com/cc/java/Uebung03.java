@@ -1,6 +1,6 @@
 package com.cc.java;
 
-public class App 
+public class Uebung03 
 {
 
     public static void main(String[] args) {
